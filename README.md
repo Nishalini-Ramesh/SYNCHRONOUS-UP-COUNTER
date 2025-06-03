@@ -1,6 +1,6 @@
 ### SYNCHRONOUS-UP-COUNTER
-##Name:Nishalini R
-##Reg No:212224040222
+## Name:Nishalini R
+## Reg No:212224040222
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
